@@ -1,1 +1,1 @@
-# PimaIndiansDiabetesDatabaseML
+# Pima Indians Diabetes Database ML
